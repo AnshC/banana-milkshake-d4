@@ -302,23 +302,23 @@ footer {
 }
 
 .homepage .meet:nth-child(1) {
-    background-image: url('/MeetImages/1_b.jpg');
+    background-image: url('../MeetImages/1_b.jpg');
 }
 
 .homepage .meet:nth-child(2) {
-    background-image: url('/MeetImages/1_g.jpg');
+    background-image: url('../MeetImages/1_g.jpg');
     background-position: center;
 }
 .homepage .meet:nth-child(3) {
-    background-image: url('/MeetImages/2_b.jpg');
+    background-image: url('../MeetImages/2_b.jpg');
     background-position: center;
 }
 .homepage .meet:nth-child(4) {
-    background-image: url('/MeetImages/2_g.jpg');
+    background-image: url('../MeetImages/2_g.jpg');
     background-position: center;
 }
 .homepage .meet:nth-child(5) {
-    background-image: url('/MeetImages/3_g.jpg');
+    background-image: url('..//MeetImages/3_g.jpg');
     background-position: center;
 }
 
